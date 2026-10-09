@@ -1,0 +1,322 @@
+[
+  {
+    "level": 1,
+    "material": "01-python-dasar",
+    "name": "meeting-01.ipynb",
+    "editorial": false,
+    "source": "level-01/01-python-dasar/notebooks/meeting-01.ipynb",
+    "path": "notebook/1/meeting-01.ipynb",
+    "url": "https://daf2a.com/course/notebook/1/meeting-01.ipynb",
+    "colab": "https://colab.research.google.com/github/daf2a/course/blob/notebooks/notebook/1/meeting-01.ipynb"
+  },
+  {
+    "level": 1,
+    "material": "01-python-dasar",
+    "name": "meeting-01_editorial.ipynb",
+    "editorial": true,
+    "source": "level-01/01-python-dasar/notebooks/meeting-01_editorial.ipynb",
+    "path": "notebook/1/meeting-01_editorial.ipynb",
+    "url": "https://daf2a.com/course/notebook/1/meeting-01_editorial.ipynb",
+    "colab": "https://colab.research.google.com/github/daf2a/course/blob/notebooks/notebook/1/meeting-01_editorial.ipynb"
+  },
+  {
+    "level": 1,
+    "material": "01-python-dasar",
+    "name": "python_fundamental.ipynb",
+    "editorial": false,
+    "source": "level-01/01-python-dasar/notebooks/python_fundamental.ipynb",
+    "path": "notebook/1/python_fundamental.ipynb",
+    "url": "https://daf2a.com/course/notebook/1/python_fundamental.ipynb",
+    "colab": "https://colab.research.google.com/github/daf2a/course/blob/notebooks/notebook/1/python_fundamental.ipynb"
+  },
+  {
+    "level": 1,
+    "material": "01-python-dasar",
+    "name": "python_fundamental_editorial.ipynb",
+    "editorial": true,
+    "source": "level-01/01-python-dasar/notebooks/python_fundamental_editorial.ipynb",
+    "path": "notebook/1/python_fundamental_editorial.ipynb",
+    "url": "https://daf2a.com/course/notebook/1/python_fundamental_editorial.ipynb",
+    "colab": "https://colab.research.google.com/github/daf2a/course/blob/notebooks/notebook/1/python_fundamental_editorial.ipynb"
+  },
+  {
+    "level": 1,
+    "material": "02-kondisional",
+    "name": "conditional_statement.ipynb",
+    "editorial": false,
+    "source": "level-01/02-kondisional/notebooks/conditional_statement.ipynb",
+    "path": "notebook/1/conditional_statement.ipynb",
+    "url": "https://daf2a.com/course/notebook/1/conditional_statement.ipynb",
+    "colab": "https://colab.research.google.com/github/daf2a/course/blob/notebooks/notebook/1/conditional_statement.ipynb"
+  },
+  {
+    "level": 1,
+    "material": "02-kondisional",
+    "name": "conditional_statement_editorial.ipynb",
+    "editorial": true,
+    "source": "level-01/02-kondisional/notebooks/conditional_statement_editorial.ipynb",
+    "path": "notebook/1/conditional_statement_editorial.ipynb",
+    "url": "https://daf2a.com/course/notebook/1/conditional_statement_editorial.ipynb",
+    "colab": "https://colab.research.google.com/github/daf2a/course/blob/notebooks/notebook/1/conditional_statement_editorial.ipynb"
+  },
+  {
+    "level": 1,
+    "material": "02-kondisional",
+    "name": "meeting-02.ipynb",
+    "editorial": false,
+    "source": "level-01/02-kondisional/notebooks/meeting-02.ipynb",
+    "path": "notebook/1/meeting-02.ipynb",
+    "url": "https://daf2a.com/course/notebook/1/meeting-02.ipynb",
+    "colab": "https://colab.research.google.com/github/daf2a/course/blob/notebooks/notebook/1/meeting-02.ipynb"
+  },
+  {
+    "level": 1,
+    "material": "02-kondisional",
+    "name": "meeting-02_editorial.ipynb",
+    "editorial": true,
+    "source": "level-01/02-kondisional/notebooks/meeting-02_editorial.ipynb",
+    "path": "notebook/1/meeting-02_editorial.ipynb",
+    "url": "https://daf2a.com/course/notebook/1/meeting-02_editorial.ipynb",
+    "colab": "https://colab.research.google.com/github/daf2a/course/blob/notebooks/notebook/1/meeting-02_editorial.ipynb"
+  },
+  {
+    "level": 1,
+    "material": "03-perulangan",
+    "name": "for_while_loop.ipynb",
+    "editorial": false,
+    "source": "level-01/03-perulangan/notebooks/for_while_loop.ipynb",
+    "path": "notebook/1/for_while_loop.ipynb",
+    "url": "https://daf2a.com/course/notebook/1/for_while_loop.ipynb",
+    "colab": "https://colab.research.google.com/github/daf2a/course/blob/notebooks/notebook/1/for_while_loop.ipynb"
+  },
+  {
+    "level": 1,
+    "material": "03-perulangan",
+    "name": "for_while_loop_editorial.ipynb",
+    "editorial": true,
+    "source": "level-01/03-perulangan/notebooks/for_while_loop_editorial.ipynb",
+    "path": "notebook/1/for_while_loop_editorial.ipynb",
+    "url": "https://daf2a.com/course/notebook/1/for_while_loop_editorial.ipynb",
+    "colab": "https://colab.research.google.com/github/daf2a/course/blob/notebooks/notebook/1/for_while_loop_editorial.ipynb"
+  },
+  {
+    "level": 1,
+    "material": "03-perulangan",
+    "name": "meeting-03.ipynb",
+    "editorial": false,
+    "source": "level-01/03-perulangan/notebooks/meeting-03.ipynb",
+    "path": "notebook/1/meeting-03.ipynb",
+    "url": "https://daf2a.com/course/notebook/1/meeting-03.ipynb",
+    "colab": "https://colab.research.google.com/github/daf2a/course/blob/notebooks/notebook/1/meeting-03.ipynb"
+  },
+  {
+    "level": 1,
+    "material": "03-perulangan",
+    "name": "meeting-03_editorial.ipynb",
+    "editorial": true,
+    "source": "level-01/03-perulangan/notebooks/meeting-03_editorial.ipynb",
+    "path": "notebook/1/meeting-03_editorial.ipynb",
+    "url": "https://daf2a.com/course/notebook/1/meeting-03_editorial.ipynb",
+    "colab": "https://colab.research.google.com/github/daf2a/course/blob/notebooks/notebook/1/meeting-03_editorial.ipynb"
+  },
+  {
+    "level": 1,
+    "material": "04-fungsi-dictionary",
+    "name": "meeting-04.ipynb",
+    "editorial": false,
+    "source": "level-01/04-fungsi-dictionary/notebooks/meeting-04.ipynb",
+    "path": "notebook/1/meeting-04.ipynb",
+    "url": "https://daf2a.com/course/notebook/1/meeting-04.ipynb",
+    "colab": "https://colab.research.google.com/github/daf2a/course/blob/notebooks/notebook/1/meeting-04.ipynb"
+  },
+  {
+    "level": 1,
+    "material": "04-fungsi-dictionary",
+    "name": "meeting-04_editorial.ipynb",
+    "editorial": true,
+    "source": "level-01/04-fungsi-dictionary/notebooks/meeting-04_editorial.ipynb",
+    "path": "notebook/1/meeting-04_editorial.ipynb",
+    "url": "https://daf2a.com/course/notebook/1/meeting-04_editorial.ipynb",
+    "colab": "https://colab.research.google.com/github/daf2a/course/blob/notebooks/notebook/1/meeting-04_editorial.ipynb"
+  },
+  {
+    "level": 2,
+    "material": "01-fungsi-statistika",
+    "name": "function_statistic.ipynb",
+    "editorial": false,
+    "source": "level-02/01-fungsi-statistika/notebooks/function_statistic.ipynb",
+    "path": "notebook/2/function_statistic.ipynb",
+    "url": "https://daf2a.com/course/notebook/2/function_statistic.ipynb",
+    "colab": "https://colab.research.google.com/github/daf2a/course/blob/notebooks/notebook/2/function_statistic.ipynb"
+  },
+  {
+    "level": 2,
+    "material": "01-fungsi-statistika",
+    "name": "function_statistic_editorial.ipynb",
+    "editorial": true,
+    "source": "level-02/01-fungsi-statistika/notebooks/function_statistic_editorial.ipynb",
+    "path": "notebook/2/function_statistic_editorial.ipynb",
+    "url": "https://daf2a.com/course/notebook/2/function_statistic_editorial.ipynb",
+    "colab": "https://colab.research.google.com/github/daf2a/course/blob/notebooks/notebook/2/function_statistic_editorial.ipynb"
+  },
+  {
+    "level": 2,
+    "material": "02-list-dictionary-numpy",
+    "name": "list_dictionary_numpy.ipynb",
+    "editorial": false,
+    "source": "level-02/02-list-dictionary-numpy/notebooks/list_dictionary_numpy.ipynb",
+    "path": "notebook/2/list_dictionary_numpy.ipynb",
+    "url": "https://daf2a.com/course/notebook/2/list_dictionary_numpy.ipynb",
+    "colab": "https://colab.research.google.com/github/daf2a/course/blob/notebooks/notebook/2/list_dictionary_numpy.ipynb"
+  },
+  {
+    "level": 2,
+    "material": "02-list-dictionary-numpy",
+    "name": "list_dictionary_numpy_editorial.ipynb",
+    "editorial": true,
+    "source": "level-02/02-list-dictionary-numpy/notebooks/list_dictionary_numpy_editorial.ipynb",
+    "path": "notebook/2/list_dictionary_numpy_editorial.ipynb",
+    "url": "https://daf2a.com/course/notebook/2/list_dictionary_numpy_editorial.ipynb",
+    "colab": "https://colab.research.google.com/github/daf2a/course/blob/notebooks/notebook/2/list_dictionary_numpy_editorial.ipynb"
+  },
+  {
+    "level": 2,
+    "material": "03-analisis-data-numpy",
+    "name": "analysis_with_numpy.ipynb",
+    "editorial": false,
+    "source": "level-02/03-analisis-data-numpy/notebooks/analysis_with_numpy.ipynb",
+    "path": "notebook/2/analysis_with_numpy.ipynb",
+    "url": "https://daf2a.com/course/notebook/2/analysis_with_numpy.ipynb",
+    "colab": "https://colab.research.google.com/github/daf2a/course/blob/notebooks/notebook/2/analysis_with_numpy.ipynb"
+  },
+  {
+    "level": 2,
+    "material": "03-analisis-data-numpy",
+    "name": "analysis_with_numpy_2.ipynb",
+    "editorial": false,
+    "source": "level-02/03-analisis-data-numpy/notebooks/analysis_with_numpy_2.ipynb",
+    "path": "notebook/2/analysis_with_numpy_2.ipynb",
+    "url": "https://daf2a.com/course/notebook/2/analysis_with_numpy_2.ipynb",
+    "colab": "https://colab.research.google.com/github/daf2a/course/blob/notebooks/notebook/2/analysis_with_numpy_2.ipynb"
+  },
+  {
+    "level": 2,
+    "material": "03-analisis-data-numpy",
+    "name": "analysis_with_numpy_2_editorial.ipynb",
+    "editorial": true,
+    "source": "level-02/03-analisis-data-numpy/notebooks/analysis_with_numpy_2_editorial.ipynb",
+    "path": "notebook/2/analysis_with_numpy_2_editorial.ipynb",
+    "url": "https://daf2a.com/course/notebook/2/analysis_with_numpy_2_editorial.ipynb",
+    "colab": "https://colab.research.google.com/github/daf2a/course/blob/notebooks/notebook/2/analysis_with_numpy_2_editorial.ipynb"
+  },
+  {
+    "level": 2,
+    "material": "03-analisis-data-numpy",
+    "name": "analysis_with_numpy_editorial.ipynb",
+    "editorial": true,
+    "source": "level-02/03-analisis-data-numpy/notebooks/analysis_with_numpy_editorial.ipynb",
+    "path": "notebook/2/analysis_with_numpy_editorial.ipynb",
+    "url": "https://daf2a.com/course/notebook/2/analysis_with_numpy_editorial.ipynb",
+    "colab": "https://colab.research.google.com/github/daf2a/course/blob/notebooks/notebook/2/analysis_with_numpy_editorial.ipynb"
+  },
+  {
+    "level": 2,
+    "material": "04-evaluasi-python-numpy",
+    "name": "python_numpy_reevaluation.ipynb",
+    "editorial": false,
+    "source": "level-02/04-evaluasi-python-numpy/notebooks/python_numpy_reevaluation.ipynb",
+    "path": "notebook/2/python_numpy_reevaluation.ipynb",
+    "url": "https://daf2a.com/course/notebook/2/python_numpy_reevaluation.ipynb",
+    "colab": "https://colab.research.google.com/github/daf2a/course/blob/notebooks/notebook/2/python_numpy_reevaluation.ipynb"
+  },
+  {
+    "level": 2,
+    "material": "04-evaluasi-python-numpy",
+    "name": "python_numpy_reevaluation_editorial.ipynb",
+    "editorial": true,
+    "source": "level-02/04-evaluasi-python-numpy/notebooks/python_numpy_reevaluation_editorial.ipynb",
+    "path": "notebook/2/python_numpy_reevaluation_editorial.ipynb",
+    "url": "https://daf2a.com/course/notebook/2/python_numpy_reevaluation_editorial.ipynb",
+    "colab": "https://colab.research.google.com/github/daf2a/course/blob/notebooks/notebook/2/python_numpy_reevaluation_editorial.ipynb"
+  },
+  {
+    "level": 3,
+    "material": "01-perbandingan-komposisi",
+    "name": "perbandingan_komposisi.ipynb",
+    "editorial": false,
+    "source": "level-03/01-perbandingan-komposisi/notebooks/perbandingan_komposisi.ipynb",
+    "path": "notebook/3/perbandingan_komposisi.ipynb",
+    "url": "https://daf2a.com/course/notebook/3/perbandingan_komposisi.ipynb",
+    "colab": "https://colab.research.google.com/github/daf2a/course/blob/notebooks/notebook/3/perbandingan_komposisi.ipynb"
+  },
+  {
+    "level": 3,
+    "material": "01-perbandingan-komposisi",
+    "name": "perbandingan_komposisi_editorial.ipynb",
+    "editorial": true,
+    "source": "level-03/01-perbandingan-komposisi/notebooks/perbandingan_komposisi_editorial.ipynb",
+    "path": "notebook/3/perbandingan_komposisi_editorial.ipynb",
+    "url": "https://daf2a.com/course/notebook/3/perbandingan_komposisi_editorial.ipynb",
+    "colab": "https://colab.research.google.com/github/daf2a/course/blob/notebooks/notebook/3/perbandingan_komposisi_editorial.ipynb"
+  },
+  {
+    "level": 3,
+    "material": "02-tren-perubahan",
+    "name": "visualisasi_tren_perubahan.ipynb",
+    "editorial": false,
+    "source": "level-03/02-tren-perubahan/notebooks/visualisasi_tren_perubahan.ipynb",
+    "path": "notebook/3/visualisasi_tren_perubahan.ipynb",
+    "url": "https://daf2a.com/course/notebook/3/visualisasi_tren_perubahan.ipynb",
+    "colab": "https://colab.research.google.com/github/daf2a/course/blob/notebooks/notebook/3/visualisasi_tren_perubahan.ipynb"
+  },
+  {
+    "level": 3,
+    "material": "02-tren-perubahan",
+    "name": "visualisasi_tren_perubahan_editorial.ipynb",
+    "editorial": true,
+    "source": "level-03/02-tren-perubahan/notebooks/visualisasi_tren_perubahan_editorial.ipynb",
+    "path": "notebook/3/visualisasi_tren_perubahan_editorial.ipynb",
+    "url": "https://daf2a.com/course/notebook/3/visualisasi_tren_perubahan_editorial.ipynb",
+    "colab": "https://colab.research.google.com/github/daf2a/course/blob/notebooks/notebook/3/visualisasi_tren_perubahan_editorial.ipynb"
+  },
+  {
+    "level": 3,
+    "material": "03-distribusi",
+    "name": "visualisasi_distribusi.ipynb",
+    "editorial": false,
+    "source": "level-03/03-distribusi/notebooks/visualisasi_distribusi.ipynb",
+    "path": "notebook/3/visualisasi_distribusi.ipynb",
+    "url": "https://daf2a.com/course/notebook/3/visualisasi_distribusi.ipynb",
+    "colab": "https://colab.research.google.com/github/daf2a/course/blob/notebooks/notebook/3/visualisasi_distribusi.ipynb"
+  },
+  {
+    "level": 3,
+    "material": "03-distribusi",
+    "name": "visualisasi_distribusi_editorial.ipynb",
+    "editorial": true,
+    "source": "level-03/03-distribusi/notebooks/visualisasi_distribusi_editorial.ipynb",
+    "path": "notebook/3/visualisasi_distribusi_editorial.ipynb",
+    "url": "https://daf2a.com/course/notebook/3/visualisasi_distribusi_editorial.ipynb",
+    "colab": "https://colab.research.google.com/github/daf2a/course/blob/notebooks/notebook/3/visualisasi_distribusi_editorial.ipynb"
+  },
+  {
+    "level": 3,
+    "material": "04-hubungan-pola-lokasi",
+    "name": "visualisasi_hubungan_pola_lokasi.ipynb",
+    "editorial": false,
+    "source": "level-03/04-hubungan-pola-lokasi/notebooks/visualisasi_hubungan_pola_lokasi.ipynb",
+    "path": "notebook/3/visualisasi_hubungan_pola_lokasi.ipynb",
+    "url": "https://daf2a.com/course/notebook/3/visualisasi_hubungan_pola_lokasi.ipynb",
+    "colab": "https://colab.research.google.com/github/daf2a/course/blob/notebooks/notebook/3/visualisasi_hubungan_pola_lokasi.ipynb"
+  },
+  {
+    "level": 3,
+    "material": "04-hubungan-pola-lokasi",
+    "name": "visualisasi_hubungan_pola_lokasi_editorial.ipynb",
+    "editorial": true,
+    "source": "level-03/04-hubungan-pola-lokasi/notebooks/visualisasi_hubungan_pola_lokasi_editorial.ipynb",
+    "path": "notebook/3/visualisasi_hubungan_pola_lokasi_editorial.ipynb",
+    "url": "https://daf2a.com/course/notebook/3/visualisasi_hubungan_pola_lokasi_editorial.ipynb",
+    "colab": "https://colab.research.google.com/github/daf2a/course/blob/notebooks/notebook/3/visualisasi_hubungan_pola_lokasi_editorial.ipynb"
+  }
+]
