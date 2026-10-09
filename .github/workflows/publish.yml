@@ -1,0 +1,78 @@
+name: Publish notebooks and Colab redirects
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: course-${{ github.ref }}
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      pages: write
+    steps:
+      - uses: actions/checkout@v7
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-python@v7
+        with:
+          python-version: '3.12'
+      - name: Install validation dependency
+        run: python -m pip install -r .github/requirements-notebooks.txt
+      - name: Validate notebooks and build redirects
+        run: python _pengembangan/publikasi/build.py
+      - name: Execute editorials and verify answers
+        run: python _pengembangan/publikasi/validate_editorials.py
+      - name: Publish Colab notebooks
+        if: github.event_name != 'pull_request'
+        env:
+          PUBLICATION_DIR: ${{ runner.temp }}/course-notebooks
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          if git show-ref --verify --quiet refs/remotes/origin/notebooks
+          then
+            git worktree add --detach "$PUBLICATION_DIR" refs/remotes/origin/notebooks
+          else
+            git worktree add --detach "$PUBLICATION_DIR" HEAD
+            git -C "$PUBLICATION_DIR" checkout --orphan notebooks
+          fi
+          rsync -a --delete --exclude=.git .build/publication/ "$PUBLICATION_DIR/"
+          git -C "$PUBLICATION_DIR" add -A
+          if ! git -C "$PUBLICATION_DIR" diff --cached --quiet
+          then
+            git -C "$PUBLICATION_DIR" commit -m "Publish notebooks from $GITHUB_SHA"
+            git -C "$PUBLICATION_DIR" push origin HEAD:refs/heads/notebooks
+          fi
+      - name: Configure Pages
+        if: github.event_name != 'pull_request'
+        uses: actions/configure-pages@v5
+      - name: Upload Pages artifact
+        if: github.event_name != 'pull_request'
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: .build/pages
+
+  deploy:
+    if: github.event_name != 'pull_request'
+    needs: build
+    runs-on: ubuntu-latest
+    permissions:
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy redirects
+        id: deployment
+        uses: actions/deploy-pages@v4

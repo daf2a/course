@@ -1,0 +1,22 @@
+# Arsip lokal
+/_arsip/
+/.build/
+
+# Hasil proses sementara, dengan skrip sumber tetap dapat dilacak
+/_pengembangan/**
+!/_pengembangan/**/
+!/_pengembangan/**/*.py
+!/_pengembangan/**/*.mjs
+!/_pengembangan/**/*.js
+/_pengembangan/runtime/
+
+# Cache sistem dan dependensi
+.DS_Store
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+node_modules/
+.venv/
+venv/
+.chart-data-*/
+.tmp/
