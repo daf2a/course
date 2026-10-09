@@ -42,6 +42,7 @@ def main():
         stem = path.stem.removesuffix("_solution")
         material = next(parent for parent in path.parents if parent.parent.name.startswith("level-"))
         if stem == "meeting-02":
+            notebook["cells"][17]["source"] = ["### Indentation yang sudah diperbaiki\n", "\n", "Pada versi editorial, statement di dalam if diberi indentation yang benar.\n"]
             notebook["cells"][18]["source"] = ["stock = 2\n", "if stock > 0:\n", "    print(\"tersedia\")\n"]
         write_editorial(ROOT / material.parent.name / material.name / "notebooks" / (stem + "_editorial.ipynb"), notebook)
 
