@@ -27,9 +27,7 @@ Format link: `https://daf2a.com/course/notebook/{level}/{nama_notebook}.ipynb`. 
 | 2 | 03-analisis-data-numpy | [analysis_with_numpy_2.ipynb](https://daf2a.com/course/notebook/2/analysis_with_numpy_2.ipynb) | [Editorial](https://daf2a.com/course/notebook/2/analysis_with_numpy_2_editorial.ipynb) |
 | 2 | 04-evaluasi-python-numpy | [python_numpy_reevaluation.ipynb](https://daf2a.com/course/notebook/2/python_numpy_reevaluation.ipynb) | [Editorial](https://daf2a.com/course/notebook/2/python_numpy_reevaluation_editorial.ipynb) |
 | 3 | 01-perbandingan-komposisi | [perbandingan_komposisi.ipynb](https://daf2a.com/course/notebook/3/perbandingan_komposisi.ipynb) | [Editorial](https://daf2a.com/course/notebook/3/perbandingan_komposisi_editorial.ipynb) |
-| 3 | 02-tren-perubahan | [visualisasi_tren_perubahan.ipynb](https://daf2a.com/course/notebook/3/visualisasi_tren_perubahan.ipynb) | [Editorial](https://daf2a.com/course/notebook/3/visualisasi_tren_perubahan_editorial.ipynb) |
-| 3 | 03-distribusi | [visualisasi_distribusi.ipynb](https://daf2a.com/course/notebook/3/visualisasi_distribusi.ipynb) | [Editorial](https://daf2a.com/course/notebook/3/visualisasi_distribusi_editorial.ipynb) |
-| 3 | 04-hubungan-pola-lokasi | [visualisasi_hubungan_pola_lokasi.ipynb](https://daf2a.com/course/notebook/3/visualisasi_hubungan_pola_lokasi.ipynb) | [Editorial](https://daf2a.com/course/notebook/3/visualisasi_hubungan_pola_lokasi_editorial.ipynb) |
+| 3 | 02-pie-dan-stacked-bar | [pie_dan_stacked_bar.ipynb](https://daf2a.com/course/notebook/3/pie_dan_stacked_bar.ipynb) | [Editorial](https://daf2a.com/course/notebook/3/pie_dan_stacked_bar_editorial.ipynb) |
 
 ## Struktur lokal
 
@@ -48,7 +46,7 @@ python/
 
 Setiap materi memiliki folder `notebooks/` untuk notebook siswa dan `_editorial`, serta `slide/`, `aset/`, `preview/`, atau `kuis/` jika ada. Cache, runtime, arsip, dan `.build/` diabaikan oleh Git. Materi, slide, aset, kuis, dan skrip sumber tetap dilacak.
 
-Notebook siswa yang sudah ada berasal dari `dist-notebooks` dan dipertahankan tanpa perubahan. Modul 4 siswa ditambahkan dari sumber EKKA karena belum ada dalam distribusi lama. Solusi distribusi lama digunakan untuk editorial Modul 1 sampai 4 dan Level 3, sementara editorial lain dilengkapi berdasarkan practice pada notebook siswa. Salinan asli solusi dan versi lokal sebelumnya tersimpan di `_arsip/`.
+Notebook siswa dan editorial untuk materi Level 1 sampai 3 disimpan pada folder `notebooks/` di materi masing-masing dalam repo ini. GitHub Actions memvalidasi notebook dari branch `main`, lalu menerbitkan salinannya ke branch `notebooks` untuk Colab dan memperbarui halaman redirect.
 
 ## Update dan publikasi
 
@@ -71,4 +69,4 @@ python3 _pengembangan/publikasi/build.py
 python3 _pengembangan/publikasi/validate_editorials.py
 ```
 
-Exporter proyek EKKA diarahkan ke struktur level dan materi pada folder Python. Jalankan hanya saat notebook sumber EKKA memang akan digunakan untuk mengganti versi di folder ini. Exporter menamai notebook jawaban dengan suffix `_editorial`.
+GitHub Actions menggunakan notebook di `level-XX/<materi>/notebooks/` dalam repo ini sebagai sumber publikasi. Buat perubahan pada salinan tersebut agar validasi dan deploy otomatis memakai versi terbaru. Notebook jawaban memakai suffix `_editorial`.
