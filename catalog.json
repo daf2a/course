@@ -261,62 +261,22 @@
   },
   {
     "level": 3,
-    "material": "02-tren-perubahan",
-    "name": "visualisasi_tren_perubahan.ipynb",
+    "material": "02-pie-dan-stacked-bar",
+    "name": "pie_dan_stacked_bar.ipynb",
     "editorial": false,
-    "source": "level-03/02-tren-perubahan/notebooks/visualisasi_tren_perubahan.ipynb",
-    "path": "notebook/3/visualisasi_tren_perubahan.ipynb",
-    "url": "https://daf2a.com/course/notebook/3/visualisasi_tren_perubahan.ipynb",
-    "colab": "https://colab.research.google.com/github/daf2a/course/blob/notebooks/notebook/3/visualisasi_tren_perubahan.ipynb"
+    "source": "level-03/02-pie-dan-stacked-bar/notebooks/pie_dan_stacked_bar.ipynb",
+    "path": "notebook/3/pie_dan_stacked_bar.ipynb",
+    "url": "https://daf2a.com/course/notebook/3/pie_dan_stacked_bar.ipynb",
+    "colab": "https://colab.research.google.com/github/daf2a/course/blob/notebooks/notebook/3/pie_dan_stacked_bar.ipynb"
   },
   {
     "level": 3,
-    "material": "02-tren-perubahan",
-    "name": "visualisasi_tren_perubahan_editorial.ipynb",
+    "material": "02-pie-dan-stacked-bar",
+    "name": "pie_dan_stacked_bar_editorial.ipynb",
     "editorial": true,
-    "source": "level-03/02-tren-perubahan/notebooks/visualisasi_tren_perubahan_editorial.ipynb",
-    "path": "notebook/3/visualisasi_tren_perubahan_editorial.ipynb",
-    "url": "https://daf2a.com/course/notebook/3/visualisasi_tren_perubahan_editorial.ipynb",
-    "colab": "https://colab.research.google.com/github/daf2a/course/blob/notebooks/notebook/3/visualisasi_tren_perubahan_editorial.ipynb"
-  },
-  {
-    "level": 3,
-    "material": "03-distribusi",
-    "name": "visualisasi_distribusi.ipynb",
-    "editorial": false,
-    "source": "level-03/03-distribusi/notebooks/visualisasi_distribusi.ipynb",
-    "path": "notebook/3/visualisasi_distribusi.ipynb",
-    "url": "https://daf2a.com/course/notebook/3/visualisasi_distribusi.ipynb",
-    "colab": "https://colab.research.google.com/github/daf2a/course/blob/notebooks/notebook/3/visualisasi_distribusi.ipynb"
-  },
-  {
-    "level": 3,
-    "material": "03-distribusi",
-    "name": "visualisasi_distribusi_editorial.ipynb",
-    "editorial": true,
-    "source": "level-03/03-distribusi/notebooks/visualisasi_distribusi_editorial.ipynb",
-    "path": "notebook/3/visualisasi_distribusi_editorial.ipynb",
-    "url": "https://daf2a.com/course/notebook/3/visualisasi_distribusi_editorial.ipynb",
-    "colab": "https://colab.research.google.com/github/daf2a/course/blob/notebooks/notebook/3/visualisasi_distribusi_editorial.ipynb"
-  },
-  {
-    "level": 3,
-    "material": "04-hubungan-pola-lokasi",
-    "name": "visualisasi_hubungan_pola_lokasi.ipynb",
-    "editorial": false,
-    "source": "level-03/04-hubungan-pola-lokasi/notebooks/visualisasi_hubungan_pola_lokasi.ipynb",
-    "path": "notebook/3/visualisasi_hubungan_pola_lokasi.ipynb",
-    "url": "https://daf2a.com/course/notebook/3/visualisasi_hubungan_pola_lokasi.ipynb",
-    "colab": "https://colab.research.google.com/github/daf2a/course/blob/notebooks/notebook/3/visualisasi_hubungan_pola_lokasi.ipynb"
-  },
-  {
-    "level": 3,
-    "material": "04-hubungan-pola-lokasi",
-    "name": "visualisasi_hubungan_pola_lokasi_editorial.ipynb",
-    "editorial": true,
-    "source": "level-03/04-hubungan-pola-lokasi/notebooks/visualisasi_hubungan_pola_lokasi_editorial.ipynb",
-    "path": "notebook/3/visualisasi_hubungan_pola_lokasi_editorial.ipynb",
-    "url": "https://daf2a.com/course/notebook/3/visualisasi_hubungan_pola_lokasi_editorial.ipynb",
-    "colab": "https://colab.research.google.com/github/daf2a/course/blob/notebooks/notebook/3/visualisasi_hubungan_pola_lokasi_editorial.ipynb"
+    "source": "level-03/02-pie-dan-stacked-bar/notebooks/pie_dan_stacked_bar_editorial.ipynb",
+    "path": "notebook/3/pie_dan_stacked_bar_editorial.ipynb",
+    "url": "https://daf2a.com/course/notebook/3/pie_dan_stacked_bar_editorial.ipynb",
+    "colab": "https://colab.research.google.com/github/daf2a/course/blob/notebooks/notebook/3/pie_dan_stacked_bar_editorial.ipynb"
   }
 ]
