@@ -30,3 +30,5 @@ Branch ini diperbarui otomatis dari branch main. Edit materi dari folder Python 
 - [perbandingan_komposisi_editorial.ipynb](https://daf2a.com/course/notebook/3/perbandingan_komposisi_editorial.ipynb)
 - [pie_dan_stacked_bar.ipynb](https://daf2a.com/course/notebook/3/pie_dan_stacked_bar.ipynb)
 - [pie_dan_stacked_bar_editorial.ipynb](https://daf2a.com/course/notebook/3/pie_dan_stacked_bar_editorial.ipynb)
+- [histogram_dan_box_plot.ipynb](https://daf2a.com/course/notebook/3/histogram_dan_box_plot.ipynb)
+- [histogram_dan_box_plot_solution.ipynb](https://daf2a.com/course/notebook/3/histogram_dan_box_plot_solution.ipynb)

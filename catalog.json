@@ -278,5 +278,25 @@
     "path": "notebook/3/pie_dan_stacked_bar_editorial.ipynb",
     "url": "https://daf2a.com/course/notebook/3/pie_dan_stacked_bar_editorial.ipynb",
     "colab": "https://colab.research.google.com/github/daf2a/course/blob/notebooks/notebook/3/pie_dan_stacked_bar_editorial.ipynb"
+  },
+  {
+    "level": 3,
+    "material": "04-histogram-dan-box-plot",
+    "name": "histogram_dan_box_plot.ipynb",
+    "editorial": false,
+    "source": "level-03/04-histogram-dan-box-plot/notebooks/histogram_dan_box_plot.ipynb",
+    "path": "notebook/3/histogram_dan_box_plot.ipynb",
+    "url": "https://daf2a.com/course/notebook/3/histogram_dan_box_plot.ipynb",
+    "colab": "https://colab.research.google.com/github/daf2a/course/blob/notebooks/notebook/3/histogram_dan_box_plot.ipynb"
+  },
+  {
+    "level": 3,
+    "material": "04-histogram-dan-box-plot",
+    "name": "histogram_dan_box_plot_solution.ipynb",
+    "editorial": false,
+    "source": "level-03/04-histogram-dan-box-plot/notebooks/histogram_dan_box_plot_solution.ipynb",
+    "path": "notebook/3/histogram_dan_box_plot_solution.ipynb",
+    "url": "https://daf2a.com/course/notebook/3/histogram_dan_box_plot_solution.ipynb",
+    "colab": "https://colab.research.google.com/github/daf2a/course/blob/notebooks/notebook/3/histogram_dan_box_plot_solution.ipynb"
   }
 ]
